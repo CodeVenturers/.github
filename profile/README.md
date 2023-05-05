@@ -1,1 +1,1 @@
-<img src="./profile/bg.png" style="width:100%; height:30%;"></img>
+<img src="./profile/bg.png" style="width:100%; height:300px;"></img>
