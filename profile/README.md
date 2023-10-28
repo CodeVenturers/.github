@@ -33,13 +33,3 @@ We welcome contributors of all levels, whether you're an experienced developer, 
 4. **Engage in Discussions:** Join our community discussions, ask questions, share your knowledge, and learn from others. We're here to help and learn together.
 
 5. **Attend Workshops and Events:** Keep an eye on our events calendar for workshops and webinars. These events are great opportunities to learn, network, and discuss the latest in AI and open source.
-
-## Code of Conduct
-
-To ensure a welcoming and inclusive environment for all, we have a [Code of Conduct](CODE_OF_CONDUCT.md) that all members are expected to follow. Please take the time to read it.
-
-## Contact
-
-If you have any questions or need assistance, feel free to reach out to us via our [contact page](https://codeventurers.org/contact).
-
-Thank you for joining CodeVenturers, and we look forward to collaborating with you to make a positive impact on open source and the field of artificial intelligence! Together, we can create a brighter future through the power of code and knowledge sharing.
